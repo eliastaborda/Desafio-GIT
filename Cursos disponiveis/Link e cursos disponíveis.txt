@@ -1,0 +1,16 @@
+A plataforma de cursos da Fundação bradesco esta disponivel no endereço: https://www.ev.org.br/areas-de-interesse/tecnologia-da-informacao
+
+O cadastro é simples, e estão disponiveis os seguintes cursos:
+
+1° Administrando Banco de Dados
+2° Crie um Site Simples usando HTML, CSS e Java Script
+3°Cultura digital
+4°Edição de fotos e vídeos com o Windows 10
+5°Fotografias com dispositivos Móveis
+6°Fundamentos de TI: Hardware e Software
+7°Implementando Banco de Dados
+8°Introdução a Redes de Computadores
+9°Letramento Digital
+10°Modelagem de Dados
+11°Segurança em Tecnologia da Informação
+12°Share Point
